@@ -4,5 +4,7 @@
     "// ": "Snapshot period in ms",
     "pollInterval": 3600000,
     "// ": "Number of snapshots to keep.",
-    "snapshotNumber": 50
+    "snapshotNumber": 50,
+    "//": "ZFS command",
+    "zfsCommand": "pfexec /usr/sbin/zfs"
 }
