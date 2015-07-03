@@ -66,5 +66,7 @@
         }
     },
     "// ": "The name of the zone this node is running in.",
-    "zoneId": "f9e6661b-82e6-4c19-873c-eb869d689446"
+    "zoneId": "f9e6661b-82e6-4c19-873c-eb869d689446",
+    "// ": "Command used to start manatee-sitter during rebuild",
+    "startCommand": "svcadm enable manatee-sitter"
 }
