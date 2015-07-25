@@ -6,5 +6,5 @@
     "// ": "Number of snapshots to keep.",
     "snapshotNumber": 50,
     "//": "ZFS command",
-    "zfsCommand": "pfexec /usr/sbin/zfs"
+    "zfsPath": "pfexec /usr/sbin/zfs"
 }
